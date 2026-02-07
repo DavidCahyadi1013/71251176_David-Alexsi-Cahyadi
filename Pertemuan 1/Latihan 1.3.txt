@@ -1,0 +1,21 @@
+>>>> modal 200000000
+
+>>> target = 400000000
+
+>>> bunga = 0.1
+
+>>>
+
+>>> tahun 0
+
+>>> while modal < target:
+
+	tahun += 1
+
+	modal += modal *bunga
+
+>>>tahun
+8
+
+>>> modal
+428717762.0
