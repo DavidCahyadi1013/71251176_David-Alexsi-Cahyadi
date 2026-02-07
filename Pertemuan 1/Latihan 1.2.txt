@@ -1,0 +1,22 @@
+Harga_beli = 650000
+>>> Total_modal = 25 * 650000
+>>> Harga_sekarang = 685000
+>>> Nilai_sekarang = 25 * 685000
+>>> Keuntungan_Rp = Nilai_sekarang - Total_modal
+>>> Keuntungan_persen = (Keuntungan_Rp / Total_modal) * 100
+>>> Keuntungan_Rp
+875000
+>>> Keuntungan_persen
+5.384615384615385
+>>>
+>>> Tambah_beli = 15 * Harga_sekarang
+>>> Total_modal_baru = Total_modal + Tambah_beli
+>>> Total_Emas = 25 + 15
+>>> Nilai_sekarang_2 = 40 * 715000
+>>> Keuntungan_Rp_2 = Nilai_sekarang_2 - Total_modal_baru
+>>> Keuntungan_persen_2 = (Keuntungan_Rp_2 / Total_modal_baru) * 100
+>>> Keuntungan_Rp_2
+2075000
+>>> Keuntungan_persen_2
+7.822808671065033
+>>>
