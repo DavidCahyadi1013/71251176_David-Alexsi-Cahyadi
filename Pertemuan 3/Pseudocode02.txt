@@ -1,0 +1,18 @@
+START
+	INPUT y,o,u
+	Dis <- o**2 - (4 * y * u)
+
+	IF Dis >= 0 THEN
+		PRINT "Akar Real/Nyata."
+	
+		IF Dis > 0 THEN
+		    PRINT "Akar Real dan Berlainan."
+		ELSE
+		    PRINT "Akar Real dan Kembar."
+		ENDIF
+	ELSE	
+	        PRINT "Akar Imajiner/Tidak Real/Khayal."
+	ENDIF
+END
+
+
