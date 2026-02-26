@@ -9,7 +9,7 @@ ENDIF
 
 WHILE i < num DO
   IF num % i = 0 THEN
-	PRINT "Bukan bil prima"
+	PRINT "Bukan Bilangan Prima"
 	END
       Else
 	i <- i + 1

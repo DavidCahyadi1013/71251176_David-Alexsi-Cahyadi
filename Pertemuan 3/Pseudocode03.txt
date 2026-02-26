@@ -1,0 +1,21 @@
+START
+	INPUT angka
+	hasil <- 1
+	nilai <- angka
+
+	IF angka < 0 THEN
+	    PRINT "Faktorial Tidak Dapat Dihitung"
+	ELSE
+	    IF angka == o THEN 
+		PRINT "Faktorial dari 0 adalah 1"
+
+	    ELSE
+		WHILE nilai > 0 DO
+		     hasil <- hasil * nilai
+		     nilai <- nilai - 1
+		ENDWHILE
+
+		PRINT hasil
+	    ENDIF
+	ENDIF
+END
