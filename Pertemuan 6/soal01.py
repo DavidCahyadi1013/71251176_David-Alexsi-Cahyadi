@@ -4,7 +4,7 @@ def perkalian(a,b):
     proses = ""
 
     for i in range(a):
-        hasil = a * b
+        hasil = hasil + b
         proses += str(b)
         if i < a - 1:
             proses += " + "
@@ -12,5 +12,7 @@ def perkalian(a,b):
     print(f"{a} x {b} = {proses} = {hasil}")
 
 
-perkalian(6, 5)
-perkalian(7, 10)
+a = int(input("Masukkan angka pertama: "))
+b = int(input("Masukkan angka kedua: "))
+
+perkalian(a,b)

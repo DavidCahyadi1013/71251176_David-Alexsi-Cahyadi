@@ -1,24 +1,26 @@
 #Latihan 6.2
-def ganjil (bawah,atas):
-    hasil = []
-
+def ganjil(bawah, atas):
     if bawah < atas:
+        print(f"bawah = {bawah}, atas = {atas}. Karena bawah < atas, berarti dari kecil ke besar, maka hasilnya adalah:", end=" ")
+        nentu = True
         for i in range(bawah, atas + 1):
             if i % 2 != 0:
-                hasil.append(i)
+                if not nentu:
+                    print(", ", end="")
+                print(i, end="")
+                nentu = False
+    
     else:
-        for i in range(bawah, atas - 1, -1):
+        print(f"bawah = {bawah}, atas = {atas}. Karena bawah > atas, berarti dari besar ke kecil, maka hasilnya adalah:", end=" ")
+        nentu = True
+        for i in range(bawah, atas -1, -1):
             if i % 2 != 0:
-                hasil.append(i)
-    
-    print("Hasil:", end=" ")
-    for i in range(len(hasil)):
-        if i < len(hasil) - 1:
-            print(hasil[i], end=", ")
-        else:
-            print(hasil[i])
-    
-    bawah = int(input("Masukkan batas bawah: "))
-    atas = int(input("Masukkan batas bawah: "))
+                if not nentu:
+                    print(", ", end="")
+                print(i, end='')
+                nentu = False
 
-    ganjil(bawah,atas)
+bawah = int(input("Masukkan batas bawah: "))
+atas = int(input("Masukkan batas atas: "))
+
+ganjil(bawah,atas)
