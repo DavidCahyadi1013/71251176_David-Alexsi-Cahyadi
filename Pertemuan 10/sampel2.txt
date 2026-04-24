@@ -1,0 +1,60 @@
+Bahasa pemrograman Python pertama kali dikembangkan oleh Guido van Rossum.
+Python dirilis secara resmi pada tahun 1991 sebagai bahasa open source.
+Python merupakan bahasa pemrograman tingkat tinggi yang mudah dipelajari.
+Konsep utama Python adalah kesederhanaan dan keterbacaan kode.
+Python dapat berjalan di berbagai sistem operasi seperti Windows Linux dan Mac.
+Python menggunakan interpreter untuk menjalankan kode secara langsung.
+Interpreter Python menerjemahkan kode baris per baris saat program dijalankan.
+Python banyak digunakan dalam pengembangan aplikasi berbasis data.
+Aplikasi kecerdasan buatan banyak yang dibangun menggunakan Python.
+Python menjadi bahasa utama dalam bidang data science dan machine learning.
+Python memiliki sistem manajemen memori otomatis menggunakan reference counting.
+Dengan manajemen memori otomatis programmer tidak perlu mengalokasikan memori manual.
+Sintaks Python cenderung lebih sederhana dan mudah dibaca oleh manusia.
+Setiap blok kode Python ditandai dengan indentasi bukan dengan tanda kurung.
+Python memiliki struktur kode yang bersih dan minimalis.
+Hal ini membuat Python cocok untuk pemula yang baru belajar pemrograman.
+Python mendukung konsep pewarisan atau inheritance antar class.
+Konsep enkapsulasi pada Python menggunakan konvensi penamaan tertentu.
+Polimorfisme pada Python sangat fleksibel karena sifat dynamic typing.
+Python memiliki komunitas pengembang yang sangat aktif di seluruh dunia.
+Banyak library dan framework Python yang tersedia di PyPI secara gratis.
+Django adalah salah satu framework Python yang populer untuk web.
+SQLAlchemy digunakan sebagai framework untuk pengelolaan database di Python.
+Pip adalah tools manajemen paket yang umum digunakan di Python.
+Python menggunakan konsep exception handling untuk menangani error.
+Blok try except pada Python digunakan untuk menangkap exception.
+Python mendukung multithreading namun dibatasi oleh Global Interpreter Lock.
+Interface pada Python tidak ada secara eksplisit namun bisa menggunakan abstract class.
+Abstract class pada Python dibuat menggunakan modul ABC dari library standar.
+Python memiliki tipe data seperti int, float, string, list, dan dictionary.
+List pada Python memiliki ukuran yang dinamis dan fleksibel.
+Python Collections menyediakan struktur data tambahan yang berguna.
+List pada Python dapat menampung berbagai tipe data sekaligus.
+Dictionary digunakan untuk menyimpan data dalam bentuk pasangan kunci dan nilai.
+Python mendukung pemrograman generik secara implisit melalui duck typing.
+Lambda expression pada Python dapat digunakan untuk fungsi sederhana satu baris.
+List comprehension pada Python memudahkan pembuatan list secara ringkas.
+Python memiliki fitur type hints untuk menambahkan informasi tipe data.
+Enum pada Python tersedia melalui modul enum di library standar.
+Decorator pada Python digunakan untuk memodifikasi perilaku fungsi atau class.
+Tkinter digunakan untuk membangun antarmuka grafis berbasis desktop di Python.
+PyQt merupakan framework modern untuk antarmuka grafis di Python.
+SQLite3 digunakan untuk menghubungkan program Python dengan database ringan.
+Python mendukung serialisasi objek menggunakan modul pickle.
+Reflection pada Python memungkinkan program memeriksa atribut objek saat runtime.
+Python memiliki fitur nested function atau fungsi yang ada di dalam fungsi lain.
+Static method pada Python didefinisikan menggunakan decorator staticmethod.
+Konstanta pada Python biasanya dituliskan dengan huruf kapital semua.
+Python menggunakan modul untuk mengorganisir kode dalam file terpisah.
+Import digunakan untuk menggunakan fungsi dari modul lain di Python.
+Python memiliki konsep namespace untuk mengelola ruang lingkup variabel.
+Konstruktor pada Python menggunakan method khusus bernama __init__.
+Function overloading pada Python tidak didukung secara langsung seperti Java.
+Method overriding pada Python dilakukan dengan mendefinisikan ulang method di subclass.
+Python versi 2 dan versi 3 memiliki beberapa perbedaan sintaks yang signifikan.
+Python 3 adalah versi terbaru dan yang direkomendasikan untuk digunakan saat ini.
+Python digunakan secara luas di bidang otomatisasi dan scripting sistem.
+Performa Python relatif lebih lambat dibandingkan bahasa C dan Java.
+Namun Python tetap populer karena kemudahan penulisan dan ekosistem librarynya.
+Python hingga saat ini menjadi salah satu bahasa pemrograman paling populer di dunia.

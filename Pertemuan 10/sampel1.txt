@@ -1,0 +1,60 @@
+Bahasa pemrograman Java pertama kali dikembangkan oleh James Gosling.
+Java dirilis secara resmi oleh Sun Microsystems pada tahun 1995.
+Java merupakan bahasa pemrograman yang bersifat berorientasi objek.
+Konsep utama Java adalah write once run anywhere.
+Java dapat berjalan di berbagai sistem operasi tanpa mengubah kode.
+Java menggunakan Java Virtual Machine atau yang dikenal sebagai JVM.
+JVM bertugas menerjemahkan bytecode Java menjadi instruksi mesin.
+Java banyak digunakan dalam pengembangan aplikasi enterprise.
+Aplikasi berbasis web juga banyak yang dibangun menggunakan Java.
+Java menjadi bahasa utama dalam pengembangan aplikasi Android.
+Java memiliki sistem manajemen memori otomatis bernama garbage collection.
+Dengan garbage collection programmer tidak perlu mengatur memori secara manual.
+Sintaks Java cenderung lebih ketat dibandingkan beberapa bahasa lain.
+Setiap program Java harus ditulis di dalam sebuah class.
+Java memiliki struktur kode yang jelas dan terorganisir dengan baik.
+Hal ini membuat Java cocok untuk proyek berskala besar.
+Java mendukung konsep pewarisan atau inheritance antar class.
+Konsep enkapsulasi pada Java membantu menjaga keamanan data.
+Polimorfisme pada Java memungkinkan satu metode memiliki banyak bentuk.
+Java memiliki komunitas pengembang yang sangat besar di seluruh dunia.
+Banyak library dan framework Java yang tersedia secara gratis.
+Spring adalah salah satu framework Java yang populer untuk web.
+Hibernate digunakan sebagai framework untuk pengelolaan database di Java.
+Maven dan Gradle adalah tools manajemen dependensi yang umum di Java.
+Java menggunakan konsep exception handling untuk menangani error.
+Blok try catch pada Java digunakan untuk menangkap exception.
+Java mendukung multithreading untuk menjalankan proses secara paralel.
+Interface pada Java digunakan untuk mendefinisikan kontrak antar class.
+Abstract class pada Java tidak dapat diinstansiasi secara langsung.
+Java memiliki tipe data primitif seperti int, float, dan boolean.
+Array pada Java memiliki ukuran tetap setelah dideklarasikan.
+Java Collections Framework menyediakan struktur data yang fleksibel.
+ArrayList pada Java dapat menampung data dengan ukuran yang dinamis.
+HashMap digunakan untuk menyimpan data dalam bentuk pasangan kunci dan nilai.
+Java mendukung pemrograman generik menggunakan tipe parameter.
+Lambda expression diperkenalkan pada Java 8 untuk pemrograman fungsional.
+Stream API pada Java memudahkan pemrosesan data secara deklaratif.
+Java memiliki fitur autoboxing untuk konversi tipe primitif ke objek.
+Enum pada Java digunakan untuk mendefinisikan sekumpulan konstanta.
+Annotation pada Java digunakan untuk memberikan metadata pada kode.
+Java Swing digunakan untuk membangun antarmuka grafis berbasis desktop.
+JavaFX merupakan framework modern untuk antarmuka grafis di Java.
+JDBC digunakan untuk menghubungkan program Java dengan database.
+Java mendukung serialisasi objek untuk menyimpan state ke file.
+Reflection pada Java memungkinkan program memeriksa struktur kode saat runtime.
+Java memiliki fitur inner class atau class yang ada di dalam class lain.
+Static method pada Java dapat dipanggil tanpa membuat objek terlebih dahulu.
+Final keyword pada Java digunakan untuk mencegah perubahan nilai variabel.
+Java menggunakan package untuk mengorganisir class dalam kelompok tertentu.
+Import digunakan untuk menggunakan class dari package lain di Java.
+Java memiliki akses modifier yaitu public, private, protected, dan default.
+Konstruktor pada Java digunakan untuk menginisialisasi objek saat dibuat.
+Method overloading pada Java memungkinkan nama metode yang sama dengan parameter berbeda.
+Method overriding digunakan untuk mengubah implementasi metode dari class induk.
+Java SE adalah edisi standar Java untuk aplikasi desktop dan server.
+Java EE atau Jakarta EE adalah edisi Java untuk aplikasi enterprise.
+Java ME digunakan untuk pengembangan aplikasi pada perangkat mobile lama.
+Performa Java relatif lebih lambat dibandingkan bahasa C dan C++.
+Namun Java tetap populer karena kemudahan pengelolaan dan portabilitasnya.
+Java hingga saat ini masih menjadi salah satu bahasa paling banyak digunakan di dunia.
