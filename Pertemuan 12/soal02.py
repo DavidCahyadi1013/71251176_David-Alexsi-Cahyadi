@@ -1,0 +1,5 @@
+print("Data List")
+la = eval(input("Lista = "))
+lb = eval(input("Lista = "))
+hasil = dict(zip(la,lb))
+print(hasil)
